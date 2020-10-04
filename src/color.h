@@ -16,7 +16,7 @@
 #define BRIGHT_CYN  "\x1B[96m"
 #define BRIGHT_WHT  "\x1B[97m"
 
-#define WITH_BLK    "[30m"
+#define WITH_BLK    "30m"
 #define WITH_RED    "31m"
 #define WITH_GRN    "32m"
 #define WITH_YEL    "33m"
