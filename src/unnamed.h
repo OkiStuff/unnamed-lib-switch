@@ -5,6 +5,7 @@
 #include "input.h"
 #include "color.h"
 #include "graphics.h"
+#include "delay.h"
 
 void InitWindowNULL() { consoleInit(NULL); }
 void UpdateNULL() { consoleUpdate(NULL); }

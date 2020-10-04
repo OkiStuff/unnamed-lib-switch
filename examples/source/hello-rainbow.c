@@ -1,11 +1,4 @@
 #include "../../src/unnamed.h"
-#include <time.h>
-
-void delay(unsigned int secs) {
-    unsigned int retTime = time(0) + secs;
-    while (time(0) < retTime);
-}
-
 
 int main(int argc, char **argv)
 {
