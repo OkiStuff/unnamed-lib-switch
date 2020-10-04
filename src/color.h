@@ -6,6 +6,7 @@
 #define MAG         "\x1B[35m"
 #define CYN         "\x1B[36m"
 #define WHT         "\x1B[37m"
+#define RESET       "\x1B[0m"
 
 #define BRIGHT_BLK  "\x1b[90m"
 #define BRIGHT_RED  "\x1B[91m"
