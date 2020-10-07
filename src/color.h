@@ -36,7 +36,7 @@
 #define WHT_BKG     "\033[1;47;"
 #define RESET_BKG   "\033[1;0;"
 
-struct COLOR 
+typedef struct COLOR 
 {
     char COLOR [500];
     char WITH_COLOR [500];
