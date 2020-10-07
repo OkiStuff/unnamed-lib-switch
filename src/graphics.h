@@ -3,9 +3,13 @@
 
 #define LINE_VERT "─"
 #define LINE_HORZ "│"
+// Warning: This may not work!!
 #define BIG_SQU_MID "■"
+// Warning: This may not work!!
 #define BIG_SQU_TOP "▀"
+// Warning: This may not work!!
 #define BIG_SQU_BOT "▄"
+// Warning: This may not work!!
 #define FULL_SQU "█"
 #define PIX_DOWN "."
 #define PIX_MID "·"
